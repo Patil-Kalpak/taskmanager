@@ -39,7 +39,7 @@ export default function Login() {
             <span className="auth-brand-name">TaskFlow</span>
           </div>
           <h1 className="auth-headline">
-            Manage your work   yuyu<br />
+            Manage your work.<br />
             <span>with clarity.</span>
           </h1>
           <p className="auth-sub">
