@@ -75,7 +75,7 @@ export default function Login() {
         <div className="auth-form-box">
           <h2 className="auth-form-title">Welcome back</h2>
           <p className="auth-form-sub">
-            Don't have an account? <Link to="/signup">Sign up free</Link>
+            Don't have an account 2:05? <Link to="/signup">Sign up free</Link>
           </p>
           {error && <div className="error-msg">⚠ {error}</div>}
           <form onSubmit={handleSubmit}>
